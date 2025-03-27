@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonofdahal
+- 👋 Hi, I’m Suyog Dahal
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on AI research
